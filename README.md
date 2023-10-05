@@ -1,7 +1,8 @@
 ### <h2>ContinuousContinuous Authentication Website</h2>
 
 Enhancing Security Through Continuous Keystroke Authentication
-Project Overview
+
+<h2>Project Overview</h2>
 
 I am Brian Ngugi, the sole member of this project, serving as the Project Lead and Full-Stack Developer. My responsibilities include overseeing the project's development and actively participating in both frontend and backend development.
 Technologies
