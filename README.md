@@ -1,6 +1,6 @@
 ### <h2>Cartoon Keystroke Dynamic</h2>
 
-Enhancing Security Through Continuous Keystroke Authentication
+Enhancing Security Through Keystroke Authentication
 
 <h2>Project Overview</h2>
 
