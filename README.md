@@ -1,4 +1,4 @@
-### Continuous Authentication Website
+### <h2>ContinuousContinuous Authentication Website</h2>
 
 Enhancing Security Through Continuous Keystroke Authentication
 Project Overview
